@@ -1,0 +1,49 @@
+product_id,product_name,brand,category,mrp
+1,Atta 5kg,BrandA,Grocery & Staples,284.66
+2,Atta 5kg,BrandB,Grocery & Staples,128.73
+3,Rice 5kg,BrandA,Grocery & Staples,106.2
+4,Rice 5kg,BrandB,Grocery & Staples,229.5
+5,Tur Dal 1kg,BrandA,Grocery & Staples,293.4
+6,Tur Dal 1kg,BrandB,Grocery & Staples,180.78
+7,Sugar 1kg,BrandA,Grocery & Staples,392.69
+8,Sugar 1kg,BrandB,Grocery & Staples,280.24
+9,Salt 1kg,BrandA,Grocery & Staples,202.75
+10,Salt 1kg,BrandB,Grocery & Staples,169.0
+11,Cooking Oil 1L,BrandA,Grocery & Staples,150.41
+12,Cooking Oil 1L,BrandB,Grocery & Staples,297.04
+13,Milk 1L,BrandA,Dairy & Bakery,186.66
+14,Milk 1L,BrandB,Dairy & Bakery,42.68
+15,Curd 500g,BrandA,Dairy & Bakery,171.26
+16,Curd 500g,BrandB,Dairy & Bakery,300.44
+17,Butter 100g,BrandA,Dairy & Bakery,89.35
+18,Butter 100g,BrandB,Dairy & Bakery,86.67
+19,Bread Loaf,BrandA,Dairy & Bakery,221.99
+20,Bread Loaf,BrandB,Dairy & Bakery,222.09
+21,Chips 100g,BrandA,Snacks,261.07
+22,Chips 100g,BrandB,Snacks,342.78
+23,Biscuits 200g,BrandA,Snacks,295.29
+24,Biscuits 200g,BrandB,Snacks,252.19
+25,Instant Noodles,BrandA,Snacks,294.53
+26,Instant Noodles,BrandB,Snacks,142.72
+27,Namkeen 200g,BrandA,Snacks,157.48
+28,Namkeen 200g,BrandB,Snacks,106.74
+29,Soft Drink 750ml,BrandA,Beverages,131.61
+30,Soft Drink 750ml,BrandB,Beverages,259.77
+31,Fruit Juice 1L,BrandA,Beverages,55.0
+32,Fruit Juice 1L,BrandB,Beverages,184.81
+33,Energy Drink 250ml,BrandA,Beverages,183.73
+34,Energy Drink 250ml,BrandB,Beverages,207.6
+35,Packaged Water 1L,BrandA,Beverages,181.82
+36,Packaged Water 1L,BrandB,Beverages,138.66
+37,Detergent 1kg,BrandA,Household,182.01
+38,Detergent 1kg,BrandB,Household,359.49
+39,Dishwash Liquid 500ml,BrandA,Household,378.78
+40,Dishwash Liquid 500ml,BrandB,Household,210.7
+41,Floor Cleaner 1L,BrandA,Household,257.1
+42,Floor Cleaner 1L,BrandB,Household,63.93
+43,Shampoo 180ml,BrandA,Personal Care,140.57
+44,Shampoo 180ml,BrandB,Personal Care,177.63
+45,Toothpaste 150g,BrandA,Personal Care,349.2
+46,Toothpaste 150g,BrandB,Personal Care,115.17
+47,Bath Soap,BrandA,Personal Care,203.55
+48,Bath Soap,BrandB,Personal Care,394.51

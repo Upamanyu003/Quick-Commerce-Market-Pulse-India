@@ -1,0 +1,13 @@
+city_id,city_name,state,metro_tier,region
+1,Bangalore,Karnataka,Tier 1,South
+2,Mumbai,Maharashtra,Tier 1,West
+3,Delhi,Delhi,Tier 1,North
+4,Hyderabad,Telangana,Tier 1,South
+5,Chennai,Tamil Nadu,Tier 1,South
+6,Pune,Maharashtra,Tier 1,West
+7,Kolkata,West Bengal,Tier 1,East
+8,Ahmedabad,Gujarat,Tier 1,West
+9,Jaipur,Rajasthan,Tier 2,North
+10,Lucknow,Uttar Pradesh,Tier 2,North
+11,Indore,Madhya Pradesh,Tier 2,Central
+12,Chandigarh,Chandigarh,Tier 2,North
